@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=FCC72C)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-%23E34F26.svg?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=apollographql&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Shopify](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)
 ![Magento](https://img.shields.io/badge/magento-4A4A55.svg?style=for-the-badge&logo=magento&logoColor=orange)
